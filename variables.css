@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  color: red;
+}
+
+img {
+  border: 5px solid;
+  border-color: white;
+  width: 100%;
+}
+
+.croppedImg {
+  height: 500px;
+  width: 600px;
+  overflow: hidden;
+}
+
+.poster {
+  width: 50%;
+  margin-top: 5%;
+  margin-left: 25%;
+  justify-content: center;
+  text-align: center;
+}
+.poster h1 {
+  color: springgreen;
+  font-family: "Libre Baskerville", serif;
+  text-transform: uppercase;
+}
+.poster p {
+  color: springgreen;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=variables.css.map */
